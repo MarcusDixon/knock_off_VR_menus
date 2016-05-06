@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 8b08dc26b9f03d64f994c30e12b4d985
+timeCreated: 1461206484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder003
+    100006: Cylinder004
+    100008: Cylinder005
+    100010: Cylinder006
+    100012: Cylinder007
+    100014: Cylinder008
+    100016: //RootNode
+    100018: spinny_wheel
+    100020: stage_floor
+    100022: wall_bot001
+    100024: wall_bot002
+    100026: wall_bot003
+    100028: wall_bot004
+    100030: wall_left001
+    100032: wall_left002
+    100034: wall_left003
+    100036: wall_left004
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder003
+    400006: Cylinder004
+    400008: Cylinder005
+    400010: Cylinder006
+    400012: Cylinder007
+    400014: Cylinder008
+    400016: //RootNode
+    400018: spinny_wheel
+    400020: stage_floor
+    400022: wall_bot001
+    400024: wall_bot002
+    400026: wall_bot003
+    400028: wall_bot004
+    400030: wall_left001
+    400032: wall_left002
+    400034: wall_left003
+    400036: wall_left004
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder003
+    2300006: Cylinder004
+    2300008: Cylinder005
+    2300010: Cylinder006
+    2300012: Cylinder007
+    2300014: Cylinder008
+    2300016: spinny_wheel
+    2300018: stage_floor
+    2300020: wall_bot001
+    2300022: wall_bot002
+    2300024: wall_bot003
+    2300026: wall_bot004
+    2300028: wall_left001
+    2300030: wall_left002
+    2300032: wall_left003
+    2300034: wall_left004
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder003
+    3300006: Cylinder004
+    3300008: Cylinder005
+    3300010: Cylinder006
+    3300012: Cylinder007
+    3300014: Cylinder008
+    3300016: spinny_wheel
+    3300018: stage_floor
+    3300020: wall_bot001
+    3300022: wall_bot002
+    3300024: wall_bot003
+    3300026: wall_bot004
+    3300028: wall_left001
+    3300030: wall_left002
+    3300032: wall_left003
+    3300034: wall_left004
+    4300000: spinny_wheel
+    4300002: stage_floor
+    4300004: wall_bot001
+    4300006: wall_bot002
+    4300008: wall_bot003
+    4300010: wall_bot004
+    4300012: wall_left001
+    4300014: wall_left002
+    4300016: wall_left003
+    4300018: wall_left004
+    4300020: Cylinder001
+    4300022: Cylinder002
+    4300024: Cylinder003
+    4300026: Cylinder004
+    4300028: Cylinder005
+    4300030: Cylinder006
+    4300032: Cylinder007
+    4300034: Cylinder008
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

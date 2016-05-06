@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 7734b3f3a2d6c2946bfe95efe1c19eb0
+timeCreated: 1461206484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arches005
+    100002: Arches006
+    100004: Arches007
+    100006: Arches008
+    100008: Arches009
+    100010: Arches010
+    100012: Arches011
+    100014: Arches012
+    100016: boulder002
+    100018: boulder003
+    100020: boulder1
+    100022: Box001
+    100024: bridge-back
+    100026: bridge-opposite
+    100028: Cylinder002
+    100030: Doorway1
+    100032: Doorway2
+    100034: Doorway3
+    100036: //RootNode
+    100038: Left wall002
+    100040: Left wall1
+    100042: main backdrop
+    100044: main backdrop 1
+    100046: mine cart
+    100048: PhysCamera001
+    100050: PhysCamera001.Target
+    100052: Plane006
+    100054: Right wall
+    100056: wheels
+    400000: Arches005
+    400002: Arches006
+    400004: Arches007
+    400006: Arches008
+    400008: Arches009
+    400010: Arches010
+    400012: Arches011
+    400014: Arches012
+    400016: boulder002
+    400018: boulder003
+    400020: boulder1
+    400022: Box001
+    400024: bridge-back
+    400026: bridge-opposite
+    400028: Cylinder002
+    400030: Doorway1
+    400032: Doorway2
+    400034: Doorway3
+    400036: //RootNode
+    400038: Left wall002
+    400040: Left wall1
+    400042: main backdrop
+    400044: main backdrop 1
+    400046: mine cart
+    400048: PhysCamera001
+    400050: PhysCamera001.Target
+    400052: Plane006
+    400054: Right wall
+    400056: wheels
+    2300000: Arches005
+    2300002: Arches006
+    2300004: Arches007
+    2300006: Arches008
+    2300008: Arches009
+    2300010: Arches010
+    2300012: Arches011
+    2300014: Arches012
+    2300016: boulder002
+    2300018: boulder003
+    2300020: boulder1
+    2300022: Box001
+    2300024: bridge-back
+    2300026: bridge-opposite
+    2300028: Cylinder002
+    2300030: Doorway1
+    2300032: Doorway2
+    2300034: Doorway3
+    2300036: Left wall002
+    2300038: Left wall1
+    2300040: main backdrop
+    2300042: main backdrop 1
+    2300044: mine cart
+    2300046: Plane006
+    2300048: Right wall
+    2300050: wheels
+    3300000: Arches005
+    3300002: Arches006
+    3300004: Arches007
+    3300006: Arches008
+    3300008: Arches009
+    3300010: Arches010
+    3300012: Arches011
+    3300014: Arches012
+    3300016: boulder002
+    3300018: boulder003
+    3300020: boulder1
+    3300022: Box001
+    3300024: bridge-back
+    3300026: bridge-opposite
+    3300028: Cylinder002
+    3300030: Doorway1
+    3300032: Doorway2
+    3300034: Doorway3
+    3300036: Left wall002
+    3300038: Left wall1
+    3300040: main backdrop
+    3300042: main backdrop 1
+    3300044: mine cart
+    3300046: Plane006
+    3300048: Right wall
+    3300050: wheels
+    4300000: main backdrop
+    4300002: Doorway1
+    4300004: Doorway3
+    4300006: Doorway2
+    4300008: mine cart
+    4300010: wheels
+    4300012: Cylinder002
+    4300014: Left wall1
+    4300016: Left wall002
+    4300018: Arches005
+    4300020: Arches010
+    4300022: Arches011
+    4300024: Arches012
+    4300026: Arches009
+    4300028: Arches008
+    4300030: Arches007
+    4300032: Arches006
+    4300034: boulder002
+    4300036: boulder003
+    4300038: boulder1
+    4300040: Right wall
+    4300042: bridge-back
+    4300044: main backdrop
+    4300046: bridge-opposite
+    4300048: Box001
+    4300050: Plane006
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

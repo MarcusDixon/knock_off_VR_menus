@@ -1,0 +1,228 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 8960x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.486631 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 164c -> priority: 1 
+  Thread -> id: 25d8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.255990 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.167061 ms (FindLiveObjects: 0.008731 ms CreateObjectMapping: 0.011932 ms MarkObjects: 0.141740 ms  DeleteObjects: 0.004365 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.331503 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.182195 ms (FindLiveObjects: 0.009895 ms CreateObjectMapping: 0.009895 ms MarkObjects: 0.157747 ms  DeleteObjects: 0.004365 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.519229 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.204315 ms (FindLiveObjects: 0.010477 ms CreateObjectMapping: 0.007567 ms MarkObjects: 0.181904 ms  DeleteObjects: 0.004074 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.420854 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.154837 ms (FindLiveObjects: 0.010477 ms CreateObjectMapping: 0.009895 ms MarkObjects: 0.121366 ms  DeleteObjects: 0.012515 ms)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+There is already a player at that playerControllerId for this connections.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 8960x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.450250 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 20c0 -> priority: 1 
+  Thread -> id: 26d0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.230378 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.160367 ms (FindLiveObjects: 0.008731 ms CreateObjectMapping: 0.011350 ms MarkObjects: 0.136501 ms  DeleteObjects: 0.003783 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356533 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.199367 ms (FindLiveObjects: 0.012224 ms CreateObjectMapping: 0.009895 ms MarkObjects: 0.172009 ms  DeleteObjects: 0.004947 ms)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.031473 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.382436 ms (FindLiveObjects: 0.026776 ms CreateObjectMapping: 0.038709 ms MarkObjects: 0.282898 ms  DeleteObjects: 0.033470 ms)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3054 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Projects\knock_off_VR_menus_git\knock_off_VR_menus\serverTest_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 60Hz; virtual: 8960x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.443556 ms
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 86)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1fe0 -> priority: 1 
+  Thread -> id: 908 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.317110 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 231.
+Total: 0.180158 ms (FindLiveObjects: 0.009895 ms CreateObjectMapping: 0.011350 ms MarkObjects: 0.153964 ms  DeleteObjects: 0.004656 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342272 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 225.
+Total: 0.209263 ms (FindLiveObjects: 0.013679 ms CreateObjectMapping: 0.009895 ms MarkObjects: 0.180158 ms  DeleteObjects: 0.004656 ms)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.585296 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 484.
+Total: 0.169098 ms (FindLiveObjects: 0.009604 ms CreateObjectMapping: 0.011350 ms MarkObjects: 0.134464 ms  DeleteObjects: 0.013679 ms)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+ran into something
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Log: connection {2} has been disconnected by timeout; address {::ffff:192.168.1.144:49866}
