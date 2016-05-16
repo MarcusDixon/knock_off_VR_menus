@@ -5,7 +5,9 @@ using UnityEngine.Networking;
 
 public class PlayerController : NetworkBehaviour
 {
-
+    [SyncVar] private string playerUniqueIdentity;
+    private NetworkInstanceId playerNetID;
+    private Transform myTransform;
     private float speed = 5.0f;
     private Rigidbody rb;
     public int movePower = 100;
@@ -17,6 +19,7 @@ public class PlayerController : NetworkBehaviour
     {
         rb = GetComponent<Rigidbody>();
         fist = gameObject.GetComponentInChildren<Fist>();
+        myTransform = transform;
     }
 
     void Update()
@@ -27,6 +30,11 @@ public class PlayerController : NetworkBehaviour
         }
         moveHorizontal = Input.GetAxis("Axis 1");
         moveVertical = Input.GetAxis("Axis 2");
+
+        if (myTransform.name == "" || myTransform.name == "Player(Clone)")
+        {
+            SetIdentity();
+        }
     }
 
     void FixedUpdate()
@@ -65,7 +73,43 @@ public class PlayerController : NetworkBehaviour
 
     }
 
+    public override void OnStartLocalPlayer()
+    {
+        myTransform = transform;
+        GetNetIdentity();
+        SetIdentity();
+    }
 
+    [Client]
+    void GetNetIdentity()
+    {
+        playerNetID = GetComponent<NetworkIdentity>().netId;
+        CmdTellServerMyIdentity(MakeUniqueIdentity());
+    }
+
+    void SetIdentity()
+    {
+        if (!isLocalPlayer)
+        {
+            myTransform.name = playerUniqueIdentity;
+        }
+        else
+        {
+            myTransform.name = MakeUniqueIdentity();
+        }
+    }
+
+    string MakeUniqueIdentity()
+    {
+        string uniqueName = "Player " + playerNetID.ToString();
+        return uniqueName;
+    }
+
+    [Command]
+    void CmdTellServerMyIdentity(string name)
+    {
+        playerUniqueIdentity = name;
+    }
 
     public void increaseSpeed(float input)
     {
