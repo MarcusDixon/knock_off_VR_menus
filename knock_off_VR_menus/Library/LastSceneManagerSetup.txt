@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Level/forge.unity
+=======
+- path: Assets/Scenes/Menus/titleScene.unity
+>>>>>>> 0b09c37a2f216bee252d0946e9904d1475d777d5
   isLoaded: 1
   isActive: 1
