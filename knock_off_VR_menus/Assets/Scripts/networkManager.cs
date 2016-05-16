@@ -20,39 +20,12 @@ public class networkManager : NetworkManager {
 
     void SetPort()
     {
-        NetworkManager.singleton.networkPort = 7777;
+        NetworkManager.singleton.networkPort = 7778;
     }
 
     void SetIPAddress()
     {
-        string ipAddress = "192.168.1.144";
+        string ipAddress = "192.168.1.127";
         NetworkManager.singleton.networkAddress = ipAddress;
-    }
-
-
-
-
-
-
-
-
-
-    public void startTheClient()
-    {
-        StartClient();
-    }
-
-    public void startTheServer()
-    {
-        StartServer();
-    }
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
     }
 }

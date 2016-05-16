@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Menus/hostJoinScene.unity
+- path: Assets/Scenes/Menus/titleScene.unity
   isLoaded: 1
   isActive: 1
