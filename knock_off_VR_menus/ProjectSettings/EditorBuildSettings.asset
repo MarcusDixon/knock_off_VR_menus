@@ -21,3 +21,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Level/forge.unity
   - enabled: 1
     path: Assets/Scenes/Level/dodgeballColosseum.unity
+  - enabled: 1
+    path: Assets/Scenes/Level/temple.unity

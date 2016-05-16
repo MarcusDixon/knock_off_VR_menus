@@ -9,6 +9,13 @@ public class networkManager : NetworkManager {
         SetIPAddress();
         SetPort();
         NetworkManager.singleton.StartServer();
+        
+    }
+
+    public void ShutdownServer()
+    {
+        LeaveGame();
+        NetworkManager.singleton.StopServer();
     }
 
     public void JoinGame()
@@ -18,10 +25,16 @@ public class networkManager : NetworkManager {
         NetworkManager.singleton.StartClient();
     }
 
+    void LeaveGame()
+    {
+        NetworkManager.singleton.StartClient();
+    }
+
     void SetPort()
     {
-        NetworkManager.singleton.networkPort = 7777;
+        NetworkManager.singleton.networkPort = 7888;
     }
+
 
     void SetIPAddress()
     {

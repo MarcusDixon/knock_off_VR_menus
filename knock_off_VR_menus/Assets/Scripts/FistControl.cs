@@ -46,8 +46,8 @@ public class FistControl : NetworkBehaviour
         //		transform.position = Vector3.Slerp (transform.position, (Target - rb.position), rotPosition.magnitude * .5f);
         //transform.position += rb.position;
         Vector3 rotPosition;
-        float rsx = Input.GetAxis("Axis 3");
-        float rsy = Input.GetAxis("Axis 4");
+        float rsx = Input.GetAxis("Axis 5");
+        float rsy = Input.GetAxis("Axis 6");
         playerPos = transform.parent.transform.position;
 
         var c = (rsx * rsx) + (rsy * rsy);

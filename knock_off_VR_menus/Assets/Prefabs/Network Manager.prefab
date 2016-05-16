@@ -39,10 +39,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e450f01564a21f4b902676957bf9bfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_NetworkPort: 7777
+  m_NetworkPort: 0
   m_ServerBindToIP: 0
   m_ServerBindAddress: 
-  m_NetworkAddress: 192.168.1.144
+  m_NetworkAddress: 
   m_DontDestroyOnLoad: 1
   m_RunInBackground: 1
   m_ScriptCRCCheck: 1
@@ -51,8 +51,8 @@ MonoBehaviour:
   m_PlayerPrefab: {fileID: 123294, guid: 932e134bd5f222e4198c805a60ea40b8, type: 2}
   m_AutoCreatePlayer: 1
   m_PlayerSpawnMethod: 0
-  m_OfflineScene: 
-  m_OnlineScene: 
+  m_OfflineScene: titleMenuScene
+  m_OnlineScene: setupGameScene
   m_SpawnPrefabs: []
   m_CustomConfig: 0
   m_MaxConnections: 4

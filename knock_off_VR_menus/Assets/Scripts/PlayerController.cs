@@ -28,13 +28,14 @@ public class PlayerController : NetworkBehaviour
         {
             return;
         }
-        moveHorizontal = Input.GetAxis("Axis 1");
-        moveVertical = Input.GetAxis("Axis 2");
 
-        if (myTransform.name == "" || myTransform.name == "Player(Clone)")
-        {
-            SetIdentity();
-        }
+        moveHorizontal = Input.GetAxis("Axis 3");
+        moveVertical = Input.GetAxis("Axis 4");
+
+        //if (myTransform.name == "" || myTransform.name == "Player(Clone)")
+        //{
+        //    SetIdentity();
+        //}
     }
 
     void FixedUpdate()
@@ -45,8 +46,9 @@ public class PlayerController : NetworkBehaviour
         }
         Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical).normalized;
 
+        //myTransform.Translate(movement);
         //rb.AddForce (movement.normalized * speed);
-        rb.AddTorque(new Vector3(-movement.z, 0, -movement.x) * speed * movePower);
+        rb.AddTorque(new Vector3(movement.x, 0, -movement.z) * speed * movePower);
     }
 
     void OnCollisionEnter(Collision other)
